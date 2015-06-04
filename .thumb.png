@@ -1,0 +1,3 @@
+Postgis Plugin: Bad connection
+Connection string: 'host=192.168.44.153 port=5432 dbname=gis user=herry connect_timeout=4'
+  encountered during parsing of layer 'minorroad_label1' in Layer at line 72
